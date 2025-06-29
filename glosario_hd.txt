@@ -1,0 +1,15 @@
+Glosario del Análisis de Homicidios Dolosos en Argetninta 2017 - 2023
+
+- Arma blanca: Cuchillos, navajas o elementos punzantes/cortantes utilizados como medio para cometer el homicidio.
+
+- Arma de fuego: Cualquier tipo de pistola, revólver o arma larga utilizada para causar la muerte de la víctima.
+
+- CABA: Acrónimo de Ciudad Autónoma de Buenos Aires. Es la capital de la República Argentina y una de las jurisdicciones que conforman el Área Metropolitana de Buenos Aires (AMBA). Tiene autonomía política, administrativa y judicial, y presenta características urbanas, demográficas y delictivas distintas a las del conurbano bonaerense.
+
+- Departamento: Unidad político-administrativa dentro de una provincia. A veces coincide con un municipio.
+
+- Hecho: Cada registro individual de un homicidio doloso ocurrido. Puede incluir una o varias víctimas.
+
+- Inculpado: persona a la que se le atribuye la presunta comisión del delito, pero que aún no ha sido condenada por la justicia.
+
+- Víctima: persona fallecida como consecuencia del homicidio doloso.
