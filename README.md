@@ -16,7 +16,7 @@ El trabajo fue realizado entre marzo y junio de 2025 como parte del Proyecto Int
 
 ## 📊 Datos utilizados
 
-- Fuente: Sistema Nacional de Información Criminal (SNIC)
+- Fuente: Sistema Nacional de Información Criminal (SNIC) - Hechos y víctimas de homicidios dolosos en la República Argentina (https://www.datos.gob.ar/dataset/seguridad-homicidios-dolosos-sistema-alerta-temprana-estadisticas-criminales-republica-argentina/archivo/seguridad_6.2)
 - Período: Enero 2017 – Junio 2023
 - Variables: edad, género, tipo de arma, tipo de hecho, provincia, entre otras.
 
