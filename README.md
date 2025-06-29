@@ -1,5 +1,3 @@
-# homicidios-argentina-2017-2023
-Análisis de los homicidios dolosos en Argentina entre 2017 y 2023
 # ¿Quiénes matan y quiénes mueren en Argentina?  
 **Radiografía de los homicidios dolosos en el período 2017–2023**
 
@@ -10,8 +8,8 @@ El trabajo fue realizado en marzo de 2025 como parte del Proyecto Integrador Fin
 ## 📁 Contenidos del repositorio
 
 - `homicidios_analisis.pdf`: Informe completo con visualizaciones y narrativa analítica.
-- `datos_limpios.csv`: Base de datos procesada y depurada.
-- `dashboard_homicidios.pbix`: Panel de visualización interactivo (Power BI).
+- `homicidios_dolosos_arg_limpio`: Base de datos procesada y depurada.
+- `dashboard_homicidios_2023.pbix`: Panel de visualización interactivo (Power BI).
 - `notas_metodologicas.txt`: Detalles sobre limpieza, supuestos y decisiones metodológicas.
 
 ## 📊 Datos utilizados
