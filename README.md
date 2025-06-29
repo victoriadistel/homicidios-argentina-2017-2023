@@ -23,8 +23,8 @@ El trabajo fue realizado entre marzo y junio de 2025 como parte del Proyecto Int
 ## ✍️ Autora
 
 **Victoria Distel**  
-[Artículo en Medium](TU-LINK-A-MEDIUM)  
-[GitHub](https://github.com/TU-USUARIO) • [LinkedIn](https://linkedin.com/in/TU-LINKEDIN) • Mail: vicky.distel3@gmail.com
+[Artículo en Medium](TU-LINK-A-MEDIUM) 
+[GitHub](https://github.com/victoriadistel) • [LinkedIn](https://www.linkedin.com/in/victoria-distel-296574236/)
 
 ## 🏁 Próximos pasos
 
