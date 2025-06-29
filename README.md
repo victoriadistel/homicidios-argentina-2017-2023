@@ -3,14 +3,14 @@
 
 Este proyecto explora los homicidios dolosos ocurridos en Argentina entre enero de 2017 y junio de 2023. A través del análisis de datos oficiales, se identifican patrones según edad, género, armas utilizadas, ocasión del hecho y localización geográfica.
 
-El trabajo fue realizado en marzo de 2025 como parte del Proyecto Integrador Final del curso de Data Analytics.
+El trabajo fue realizado entre marzo y junio de 2025 como parte del Proyecto Integrador Final del un curso de Data Analytics.
 
 ## 📁 Contenidos del repositorio
 
 - `homicidios_analisis.pdf`: Informe completo con visualizaciones y narrativa analítica.
-- `homicidios_dolosos_arg_limpio`: Base de datos procesada y depurada.
+- `homicidios_dolosos_arg_limpio`: Base de datos normalizada y depurada.
 - `dashboard_homicidios_2023.pbix`: Panel de visualización interactivo (Power BI).
-- `notas_metodologicas.txt`: Detalles sobre limpieza, supuestos y decisiones metodológicas.
+- `glosario_hd.txt`: Glosario 
 
 ## 📊 Datos utilizados
 
@@ -22,9 +22,9 @@ El trabajo fue realizado en marzo de 2025 como parte del Proyecto Integrador Fin
 
 **Victoria Distel**  
 [Artículo en Medium](TU-LINK-A-MEDIUM)  
-[GitHub](https://github.com/TU-USUARIO) • [LinkedIn](https://linkedin.com/in/TU-LINKEDIN) • Mail: TU-EMAIL
+[GitHub](https://github.com/TU-USUARIO) • [LinkedIn](https://linkedin.com/in/TU-LINKEDIN) • Mail: vicky.distel3@gmail.com
 
-## 🔮 Próximos pasos
+## 🏁 Próximos pasos
 
 En futuras entregas se incorporarán variables educativas y socioeconómicas para ampliar la comprensión de los contextos de violencia.
 
