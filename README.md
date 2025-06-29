@@ -7,10 +7,12 @@ El trabajo fue realizado entre marzo y junio de 2025 como parte del Proyecto Int
 
 ## 📁 Contenidos del repositorio
 
-- `homicidios_analisis.pdf`: Informe completo con visualizaciones y narrativa analítica.
-- `homicidios_dolosos_arg_limpio`: Base de datos normalizada y depurada.
-- `dashboard_homicidios_2023.pbix`: Panel de visualización interactivo (Power BI).
+- `README.md`: descripción general del proyecto, sus objetivos, estructura y licencias.
+- `homicidios_analisis.pdf`: informe completo con visualizaciones y narrativa analítica.
+- `homicidios_dolosos_arg_limpio.xls`: base de datos normalizada y depurada.
+- `dashboard_homicidios_2023.pbix`: panel de visualización interactivo (Power BI).
 - `glosario_hd.txt`: definición de términos clave utilizados en el análisis.
+- `LICENSE.txt`: licencia que regula el uso, distribución y atribución del contenido.
 
 ## 📊 Datos utilizados
 
