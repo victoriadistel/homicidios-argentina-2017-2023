@@ -16,14 +16,14 @@ El trabajo fue realizado entre marzo y junio de 2025 como parte del Proyecto Int
 
 ## 📊 Datos utilizados
 
-- Fuente: Sistema Nacional de Información Criminal (SNIC) - Hechos y víctimas de homicidios dolosos en la República Argentina (https://www.datos.gob.ar/dataset/seguridad-homicidios-dolosos-sistema-alerta-temprana-estadisticas-criminales-republica-argentina/archivo/seguridad_6.2)
+- Fuente: Sistema Nacional de Información Criminal (SNIC) - [Hechos y víctimas de homicidios dolosos en la República Argentina](https://www.datos.gob.ar/dataset/seguridad-homicidios-dolosos-sistema-alerta-temprana-estadisticas-criminales-republica-argentina/archivo/seguridad_6.2)
 - Período: Enero 2017 – Junio 2023
 - Variables: edad, género, tipo de arma, tipo de hecho, provincia, entre otras.
 
 ## ✍️ Autora
 
 **Victoria Distel**  
-[Artículo en Medium](TU-LINK-A-MEDIUM) 
+[Artículo en Medium](https://medium.com/@vicky_distel/quienes-matan-y-quienes-mueren-en-argentina-2017-2023-f52598f27710) •
 [GitHub](https://github.com/victoriadistel) • [LinkedIn](https://www.linkedin.com/in/victoria-distel-296574236/)
 
 ## 🏁 Próximos pasos
